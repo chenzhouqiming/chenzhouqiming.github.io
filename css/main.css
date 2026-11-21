@@ -77,7 +77,7 @@
   --duration-medium: 0.3s;
 
   /* --- Font stack --- */
-  --font-sans: 'Roboto', ui-sans-serif, system-ui, sans-serif;
+  --font-sans: 'LXGW WenKai Screen', 'Roboto', 'PingFang SC', 'Microsoft YaHei', ui-sans-serif, system-ui, sans-serif;
   --font-mono: 'Fira Code', ui-monospace, monospace;
 
   /* ====================================================================
