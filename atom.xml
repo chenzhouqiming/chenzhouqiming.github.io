@@ -9,22 +9,25 @@
   <link href="https://chenzhouqiming.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, 沉舟启明</rights>
   <title>CZQM</title>
-  <updated>2026-11-21T12:16:52.171Z</updated>
+  <updated>2026-11-21T12:26:41.332Z</updated>
   <entry>
     <author>
       <name>沉舟启明</name>
     </author>
+    <category term="OCD" scheme="https://chenzhouqiming.github.io/tags/OCD/"/>
     <content>
-      <![CDATA[<p><strong>わたしはかみですか？ はい！</strong></p>]]>
+      <![CDATA[<p><strong>因为OCD的缘故,我怕我会堕落</strong></p><p>我怕我不是我了</p><p>我有了精神障碍吗?</p>]]>
     </content>
     <id>https://chenzhouqiming.github.io/2026/11/21/%E7%A7%81%E3%81%AFkami/</id>
     <link href="https://chenzhouqiming.github.io/2026/11/21/%E7%A7%81%E3%81%AFkami/"/>
-    <published>2026-11-21T11:00:00.000Z</published>
+    <published>2026-11-21T00:27:00.000Z</published>
     <summary>
-      <![CDATA[<p><strong>わたしはかみですか？ はい！</strong></p>]]>
+      <![CDATA[<p><strong>因为OCD的缘故,我怕我会堕落</strong></p>
+<p>我怕我不是我了</p>
+<p>我有了精神障碍吗?</p>]]>
     </summary>
-    <title>私は神？</title>
-    <updated>2026-11-21T12:16:52.171Z</updated>
+    <title>私は私？</title>
+    <updated>2026-11-21T12:26:41.332Z</updated>
   </entry>
   <entry>
     <author>
@@ -43,6 +46,6 @@
 <p> 我的网站是 <a href="https://czqm.me/">czqm.me</a></p>]]>
     </summary>
     <title>第一篇博客：）</title>
-    <updated>2026-11-21T12:16:52.171Z</updated>
+    <updated>2026-11-21T12:26:41.332Z</updated>
   </entry>
 </feed>
