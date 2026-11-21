@@ -9,23 +9,7 @@
   <link href="https://chenzhouqiming.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, 沉舟启明</rights>
   <title>沉舟启明之站</title>
-  <updated>2026-11-21T11:12:59.654Z</updated>
-  <entry>
-    <author>
-      <name>沉舟启明</name>
-    </author>
-    <content>
-      <![CDATA[<p>发布链路测试成功：这篇文章是在 hexo-admin 里写、点「发布」后自动上线的。</p>]]>
-    </content>
-    <id>https://chenzhouqiming.github.io/2026/11/21/TEST-BY-CZQM/</id>
-    <link href="https://chenzhouqiming.github.io/2026/11/21/TEST-BY-CZQM/"/>
-    <published>2026-11-21T11:15:00.000Z</published>
-    <summary>
-      <![CDATA[<p>发布链路测试成功：这篇文章是在 hexo-admin 里写、点「发布」后自动上线的。</p>]]>
-    </summary>
-    <title>TEST BY CZQM</title>
-    <updated>2026-11-21T11:12:59.654Z</updated>
-  </entry>
+  <updated>2026-11-21T11:17:42.404Z</updated>
   <entry>
     <author>
       <name>沉舟启明</name>
@@ -35,7 +19,7 @@
     </content>
     <id>https://chenzhouqiming.github.io/2026/11/21/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%9A%EF%BC%89/</id>
     <link href="https://chenzhouqiming.github.io/2026/11/21/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2%EF%BC%9A%EF%BC%89/"/>
-    <published>2026-11-21T11:12:59.654Z</published>
+    <published>2026-11-21T11:17:42.404Z</published>
     <summary>
       <![CDATA[<p>你好呀！ 我是<strong>沉舟启明</strong></p>
 <p> 这是我的第一条博客（）</p>
@@ -43,6 +27,6 @@
 <p> 我的网站是 <a href="https://czqm.me/">czqm.me</a></p>]]>
     </summary>
     <title>第一篇博客：）</title>
-    <updated>2026-11-21T11:12:59.654Z</updated>
+    <updated>2026-11-21T11:17:42.404Z</updated>
   </entry>
 </feed>
