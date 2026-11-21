@@ -9,7 +9,23 @@
   <link href="https://chenzhouqiming.github.io/atom.xml" rel="self"/>
   <rights>All rights reserved 2026, 沉舟启明</rights>
   <title>沉舟启明之站</title>
-  <updated>2026-11-21T11:28:43.158Z</updated>
+  <updated>2026-11-21T11:30:25.699Z</updated>
+  <entry>
+    <author>
+      <name>沉舟启明</name>
+    </author>
+    <content>
+      <![CDATA[<p><strong>わたしはかみですか？</strong></p>]]>
+    </content>
+    <id>https://chenzhouqiming.github.io/2626/11/21/%E7%A7%81%E3%81%AFkami/</id>
+    <link href="https://chenzhouqiming.github.io/2626/11/21/%E7%A7%81%E3%81%AFkami/"/>
+    <published>2626-11-21T11:28:00.000Z</published>
+    <summary>
+      <![CDATA[<p><strong>わたしはかみですか？</strong></p>]]>
+    </summary>
+    <title>私はkami</title>
+    <updated>2026-11-21T11:30:25.699Z</updated>
+  </entry>
   <entry>
     <author>
       <name>沉舟启明</name>
@@ -27,6 +43,6 @@
 <p> 我的网站是 <a href="https://czqm.me/">czqm.me</a></p>]]>
     </summary>
     <title>第一篇博客：）</title>
-    <updated>2026-11-21T11:28:43.158Z</updated>
+    <updated>2026-11-21T11:30:25.699Z</updated>
   </entry>
 </feed>
